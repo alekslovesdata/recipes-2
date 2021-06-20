@@ -2,6 +2,8 @@
 
 A simple grilled cheese sandwich.
 
+<img src="grilled-cheese.jpeg" alt="grilled cheese" width="200">
+
 ## info
 
 * 15-ish minutes
