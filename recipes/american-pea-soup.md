@@ -43,4 +43,4 @@ Cook
 
 ## based on
 
-* `https://www.allrecipes.com/recipe/16217/vegan-split-pea-soup-i/`
+* https://www.allrecipes.com/recipe/16217/vegan-split-pea-soup-i/
