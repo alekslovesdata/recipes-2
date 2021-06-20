@@ -2,7 +2,7 @@
 
 A simple grilled cheese sandwich.
 
-<img src="grilled-cheese.jpeg" alt="grilled cheese" width="200">
+<img src="../images/grilled-cheese.jpeg" alt="grilled cheese" width="200">
 
 ## info
 
