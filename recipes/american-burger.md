@@ -6,7 +6,7 @@
 
 ## info
 
-* `18min`
+* `18 min`
 * `Even number of burgers`
 
 ## ingredients
