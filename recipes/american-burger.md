@@ -16,7 +16,7 @@
 * `1 large heirloom tomato per 4 burgers`
 * `1 large red onion per 4 burgers`
 * `1 head of lettuce`
-* `Trader Joe's pre-sliced Shart Cheddar Cheese`
+* `Trader Joe's pre-sliced Sharp Cheddar Cheese`
 * `Trader Joe's whole grain mustard`
 
 
