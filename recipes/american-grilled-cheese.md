@@ -1,13 +1,13 @@
 # American Grilled Cheese
 
-A simple grilled cheese sandwich.
+`A simple grilled cheese sandwich.`
 
 <img src="../images/grilled-cheese.jpeg" alt="grilled cheese" width="200">
 
 ## info
 
-* 15-ish minutes
-* makes 2 sandwiches
+* `15-ish minutes`
+* `makes 2 sandwiches`
 
 ## ingredients
 

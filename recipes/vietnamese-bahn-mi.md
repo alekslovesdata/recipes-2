@@ -20,7 +20,7 @@
 * `1 medium radish, thinly sliced`
 * `1 tsp salt`
 * `2 tbsp oil`
-* `fresh baguette from the bakery (12 inches)``
+* `fresh baguette from the bakery (12 inches)`
 * `1/4 cup mayo`
 * `1/2 cup cilantro leaves and stems`
 
