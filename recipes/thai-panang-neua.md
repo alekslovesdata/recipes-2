@@ -2,7 +2,7 @@
 
 `Spicy beef curry`
 
-<img src="../images/vietnamese_bahnmi.jpg" alt="bahn mi" width="200"/>
+<img src="../images/thai_panang_curry.jpg" alt="thai_panang_curry" width="200"/>
 
 ## info
 
