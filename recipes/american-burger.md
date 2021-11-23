@@ -1,6 +1,6 @@
 # `American Style Burgers`
 
-`Burgers cooked on cast iron or grill`
+`Burgers cooked on a cast iron or grill`
 
 <img src="../images/american_burger.jpg" alt="burger" width="200"/>
 
