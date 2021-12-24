@@ -1,34 +1,23 @@
-# `recipe-name`
+# `American Steak`
 
-`description`
-
-## info
-
-* `cook time`
-* `quantity`
+`A simple steak on cast iron or grill`
 
 ## ingredients
 
-* `primary ingredients`
+* `a steak`
 
 more ingredients you might already have but should check
 
-* `more ingredients`
+* `salt`
+* `pepper`
 
 ## steps
 
 Prep
 
-1. `prep step`
+1. `Heat up grill or cast iron.`
+2. `Add salt and pepper or whatever spice mix you prefer to both sides of steak.`
 
 Cook
 
-1. `cooking step`
-
-## notes
-
-* `notes`
-
-## based on
-
-* `link to source material`
+1. `Cook ~ 3 minutes on each side.`
