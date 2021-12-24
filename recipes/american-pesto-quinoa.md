@@ -19,7 +19,7 @@ more ingredients you might already have but should check
 
 Prep
 
-1. `Rinse the quinoa: Pour the quinoa into a fine mesh colander and rinse under running water for at least 30 seconds. Drain well. This step removes any bitterness on the outside of the quinoa (caused by naturally occurring saponins).`
+1. `Rinse the quinoa: Pour the quinoa into a fine mesh colander and rinse under running water for at least 30 seconds. Drain well. This step removes any bitterness on the outside of the quinoa.`
 
 Cook
 
